@@ -1,0 +1,14 @@
+{
+  "name": "merania-janos-bot",
+  "version": "1.0.0",
+  "description": "A bot to tweet quotes from Janos Meraniai, \"A királynét megölni nem kell félnetek jó lesz ha mindenki egyetért én nem ellenzem.\" with different punctuation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marton Bendeguz Bendicsek",
+  "license": "MIT",
+  "dependencies": {
+    "twitter-api-v2": "^1.11.3"
+  }
+}
